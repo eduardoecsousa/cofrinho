@@ -7,3 +7,4 @@ vez é uma classe mãe abstrata de outras classes específicas de Dolar, Euro, R
 coleção de Moedas pode ser implementada utilizando um ArrayList, ou qualquer outra
 estrutura de dados que julgue pertinente.
 
+![image](https://github.com/user-attachments/assets/1b3334f9-6a7a-40f6-a249-564608bd4162)
